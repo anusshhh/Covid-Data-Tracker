@@ -19,7 +19,7 @@ This COVID-19 cases tracker application is built using Spring Boot and Thymeleaf
 - Import the project into your preferred IDE.
 - Set up the necessary dependencies and configurations.
 - Build and run the application.
-- 
+
 ## Usage
 Access the application through a web browser.
 View the latest COVID-19 cases and statistics.
